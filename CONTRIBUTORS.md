@@ -11,3 +11,9 @@
 - Bio: Kaafi Cool Hacker
 - Github: https://github.com/sheerazali19/hacktoberfest19
 ***
+
+### Hrishikesh rai
+- Location: Bhopal, India
+- Bio: Full stack developer
+- Github: https://github.com/sskywalker
+***
