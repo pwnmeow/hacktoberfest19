@@ -13,7 +13,7 @@ If you’ve never contributed to open source before, this is the perfect time to
 
 # 👍 This is Awesome! How Can I Contribute? 
 It's very easy. You don't need to be an expert in coding and programming. Here are the steps you need to follow to create your -(maybe)- EXAMPLE first pull request within few minutes.
-1. Fork this repository by click the Fork button in the top right of this page or simply [click here](https://github.com/wajahatkarim3/Hacktoberfest2019/fork).
+1. Fork this repository by click the Fork button in the top right of this page or simply [click here](https://github.com/monkfromearth/hacktoberfest2019/fork).
 2. Navigate to `CONTRIBUTORS.md` file
 3. Edit the file and insert your short profile with the following text
 ```
@@ -27,7 +27,7 @@ It's very easy. You don't need to be an expert in coding and programming. Here a
 Here's an example of my profile
 
 ```
-### Wajahat Karim
+### Sameer Khan
 - Location: Bhopal, India
 - Bio: Google DevG Co-Lead • Facebook DevC Speaker • DataCamp & DevC's ML Scholar • Full Stack Web Dev • Founded 3 startups
 - Github: https://github.com/monkfromearth
